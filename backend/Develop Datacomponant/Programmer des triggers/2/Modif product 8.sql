@@ -1,0 +1,1 @@
+UPDATE products SET pro_stock_alert = 5, pro_stock = 1 WHERE pro_id = 8;
