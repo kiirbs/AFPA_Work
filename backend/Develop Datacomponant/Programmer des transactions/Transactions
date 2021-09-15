@@ -1,0 +1,5 @@
+1- On peut conclure que cette transaction ne deviendra pas effective definitivement.
+2- Les données ne sont pas modifiables par d'autres utilisateurs.
+3- La transaction n'est pas terminer ni effective.
+4- Grace a l'instruction COMMIT.
+5- Grace a l'instruction ROLLBACK.
